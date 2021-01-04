@@ -90,7 +90,6 @@ AppDir:
     path_mappings:
       - /usr/share/mypaint-data/1.0/brushes:$APPDIR/usr/share/mypaint-data/1.0/brushes
     env:
-      APPDIR_LIBRARY_PATH: '$APPDIR/usr/lib:$APPDIR/usr/lib/x86_64-linux-gnu:$APPDIR/lib/x86_64-linux-gnu:$APPDIR/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders'
       PYTHONPATH: $APPDIR/usr/lib/python2.7:$APPDIR/usr/lib/python2.7/site-packages:$PYTHONPATH
       BABL_PATH: $APPDIR/usr/lib/x86_64-linux-gnu/babl-0.1
       GEGL_PATH: $APPDIR/usr/lib/x86_64-linux-gnu/gegl-0.4
@@ -124,3 +123,4 @@ AppImage:
   arch: x86_64
   update-information: !ENV ${UPDATE_INFO}
   file_name: !ENV Glimpse_Image_Editor-${GLIMPSE_VERSION}-x86_64.AppImage
+
