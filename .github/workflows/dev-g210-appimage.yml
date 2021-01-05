@@ -96,6 +96,7 @@ jobs:
         env:
           UPDATE_INFO: gh-releases-zsync|glimpse-editor|Glimpse|latest|*x86_64.AppImage.zsync
           GLIMPSE_VERSION: ${{ env.GLIMPSE_VERSION }}
+          BUILDER_VERSION: master
         with:
           recipe: 'AppImageBuilder.yml'
 
