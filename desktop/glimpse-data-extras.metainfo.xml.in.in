@@ -5,7 +5,7 @@
   <project_license>GPL-3.0+</project_license>
   <_name>Extra files for Glimpse</_name>
   <_summary>Patterns, gradients, and other extra files for Glimpse</_summary>
-  <url type="homepage">https://glimpse-editor.github.io</url>
+  <url type="homepage">https://glimpse-editor.org</url>
   <url type="bugtracker">@BUG_REPORT_URL@</url>
   <!-- update_contact>TODO@glimpse-editor.org</update_contact -->
 

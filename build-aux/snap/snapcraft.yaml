@@ -210,8 +210,8 @@ parts:
     after:
       - fix-pkgconfig-files
     plugin: meson
-    source: https://download.gimp.org/pub/babl/0.1/babl-0.1.78.tar.xz
-    source-checksum: sha256/17d5493633bff5585d9f375bc4df5925157cd1c70ccd7c22a635be75c172523a
+    source: https://download.gimp.org/pub/babl/0.1/babl-0.1.84.tar.xz
+    source-checksum: sha256/e7e38b8441f77feb9dc8231cb434a86190a21f2f3692c281457e99d35e9c34ea
     meson-parameters:
       - --prefix=/usr
       - -Dwith-docs=false
@@ -237,8 +237,8 @@ parts:
     after:
       - babl
       - fix-pkgconfig-files
-    source: https://download.gimp.org/pub/gegl/0.4/gegl-0.4.22.tar.xz
-    source-checksum: sha256/1888ec41dfd19fe28273795c2209efc1a542be742691561816683990dc642c61
+    source: https://download.gimp.org/pub/gegl/0.4/gegl-0.4.28.tar.xz
+    source-checksum: sha256/1d110d8577d54cca3b34239315bd37c57ccb27dd4355655074a2d2b3fd897900
     plugin: meson
     meson-parameters:
       - --prefix=/usr

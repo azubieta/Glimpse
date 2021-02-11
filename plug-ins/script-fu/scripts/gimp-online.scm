@@ -162,7 +162,7 @@
 ;; Links to Glimpse related web sites
 
 (define (gimp-online-main-web-site)
-  (plug-in-web-browser "https://glimpse-editor.github.io/")
+  (plug-in-web-browser "https://glimpse-editor.org/")
 )
 
 (define (gimp-online-developer-web-site)

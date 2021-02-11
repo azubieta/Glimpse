@@ -24,7 +24,7 @@
     </_p>
   </description>
 
-  <homepage rdf:resource="https://glimpse-editor.github.io" />
+  <homepage rdf:resource="https://glimpse-editor.org" />
   <!-- download-page rdf:resource="https:///www.gimp.org/downloads/" / -->
   <bug-database rdf:resource="https://github.com/glimpse-editor/Glimpse/issues" />
   <!-- mailing-list rdf:resource="https://gimp.org/mail_lists.html" / -->

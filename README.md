@@ -16,7 +16,7 @@ For a detailed view of our changes, check the `NEWS` file.
 
 ## How will the package versions work?
 * Glimpse Image Editor 0.1.0 and 0.1.2 fork from GNU Image Manipulation Program 2.10.12
-* Glimpse Image Editor 0.2.0 forks from GNU Image Manipulation Program 2.10.18
+* Glimpse Image Editor 0.2.0 and 0.2.2 fork from GNU Image Manipulation Program 2.10.18
 
 You can read more information about this and our ongoing release schedule at https://glimpse-editor.github.io/about/#how-does-your-release-numbering-work
 

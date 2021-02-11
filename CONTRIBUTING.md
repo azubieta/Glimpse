@@ -1,7 +1,7 @@
 # Contributing to Glimpse Image Editor
-Thank you for your interest in contributing to the Glimpse project! Feel free to reach out to us on the #glimpse:matrix.org Matrix channel and read the latest project news on https://glimpse-editor.github.io.
+Thank you for your interest in contributing to the Glimpse project! Feel free to reach out to us on the #glimpse:matrix.org Matrix channel and read the latest project news on https://glimpse-editor.org.
 
-Before getting in contact, please familiarize yourself with our [code of conduct](https://glimpse-editor.github.io/code-of-conduct/). For convenience we have provided a copy of that document with the source code in a file called `CODE_OF_CONDUCT.md`.
+Before getting in contact, please familiarize yourself with our [code of conduct](https://glimpse-editor.org/code-of-conduct/). For convenience we have provided a copy of that document with the source code in a file called `CODE_OF_CONDUCT.md`.
 
 ## Contents <a name="top"></a>
 * [Beginner questions](#beginner-questions)
@@ -101,7 +101,7 @@ If you have expertise to provide for our future translation tools, please join u
 [Return to top](#top)
 
 ## Join the community
-We recommend you familiarize yourself with our [code of conduct](https://glimpse-editor.github.io/code-of-conduct/) and [how we govern ourselves](https://glimpse-editor.github.io/about/#how-does-this-project-govern-itself).
+We recommend you familiarize yourself with our [code of conduct](https://glimpse-editor.org/code-of-conduct/) and [how we govern ourselves](https://glimpse-editor.org/about/#how-does-this-project-govern-itself).
 
 Once you have done so, you are welcome to join us on the #glimpse:matrix.org Matrix channel. That communication channel is where our internal discussions happen and project decisions are made.
 
@@ -117,14 +117,14 @@ You can also scrutinize how much we receive in donations and what we spend that 
 [Return to top](#top)
 
 ## Follow project news
-We provide regular blog post updates on our project website and its "full text" RSS feed: https://glimpse-editor.github.io.
+We provide regular blog post updates on our project website and its "full text" RSS feed: https://glimpse-editor.org.
 
 You can also follow us on social media platforms such as [the fediverse](https://mastodon.art/@glimpse), [Facebook](https://www.facebook.com/glimpse.editor) and [Twitter](https://twitter.com/glimpse_editor).
 
 [Return to top](#top)
 
 ## More information
-You can find out more about the Glimpse project on our website: https://glimpse-editor.github.io/about/
+You can find out more about the Glimpse project on our website: https://glimpse-editor.org/about/
 
 Our future development roadmap is also available here: https://github.com/glimpse-editor/Glimpse/milestones
 

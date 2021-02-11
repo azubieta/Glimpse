@@ -310,9 +310,9 @@ gimp_update_check (GimpCoreConfig *config)
   if (g_getenv ("GIMP_DEV_VERSIONS_JSON"))
     gimp_versions = g_file_new_for_path (g_getenv ("GIMP_DEV_VERSIONS_JSON"));
   else
-    gimp_versions = g_file_new_for_uri ("https://glimpse-editor.github.io/glimpse_versions_dev.json");
+    gimp_versions = g_file_new_for_uri ("https://glimpse-editor.org/glimpse_versions_dev.json");
 #else
-  gimp_versions = g_file_new_for_uri ("https://glimpse-editor.github.io/glimpse_versions.json");
+  gimp_versions = g_file_new_for_uri ("https://glimpse-editor.org/glimpse_versions.json");
 #endif
   g_file_read_async (gimp_versions, 0, NULL, gimp_check_updates_callback, config);
   g_object_unref (gimp_versions);

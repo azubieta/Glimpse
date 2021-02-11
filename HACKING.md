@@ -6,7 +6,7 @@ Glimpse Image Editor 0.2.2 depends on the following subcomponents:
 - BABL 0.1.84
 - MyPaint-Brushes 1.3.1
 - LibMypaint 1.5.1
-- GEGL 0.4.26
+- GEGL 0.4.28
 
 You must build the components in this order:
 

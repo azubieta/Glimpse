@@ -10,11 +10,15 @@ We use odd number release versions for builds on this branch as that assists us 
 Overview of Changes in Glimpse 0.2.1
 ====================================
 * Uplifted BABL from 0.1.78 to 0.1.84 
-* Uplifted GEGL from 0.4.22 to 0.4.26
+* Uplifted GEGL from 0.4.22 to 0.4.28
 * Uplifted GNOME Platform version in Flatpak from 3.36 to 3.38
 * Added permissions for Flatpak to open, save and edit files in the /tmp directory
 * Backported fix for upstream regression #4496 that breaks liquid rescale plugin
+* Backported fix for upstream regression caused by GEGL 0.4.28, made gegl:introspection optional
 * Added Large Text variants of Dark, Gray and Light UI themes
+* Removed sticker border from Windows program icon
+* Updated Github Actions for Windows so it copies useful files into the build directory
+* Moved links back to glimpse-editor.org
 * TO BE DETERMINED - Still in development
 
 Overview of Changes in Glimpse 0.2.0
